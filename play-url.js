@@ -1,7 +1,7 @@
 // online audio taken from: https://kiwi6.com/artists/spritekiwi6/souriez-quand-les-oiseaux-chantent
 // used the hotlink which has the extension .mp3 :D
 
-// using the Player library.
+// using the Player library
 
 var Player = require('player');
 
